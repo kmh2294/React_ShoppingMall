@@ -1,18 +1,18 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+React를 활용한 쇼핑몰 사이트입니다.
 
-To use this application, 
+인프런 강의를 바탕으로 공부한 내용입니다.
+https://inf.run/WkV9
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+Node.js + express 를 활용한 백엔드서버
 
+MongoDB atlas 클라우드를 활용한 DB서버
 
-If you have problem, feel free to ask me ^^ 
+mongooose 라이브러리를 활용법
 
-You can watch the tutorial for this app.
+jwt 토큰 방식의 로그인 및 redux를 활용한 user 정보 스토어 관리
 
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
+미들웨어를 만들어 각 페이지별 로그인 인증
 
+multer 라이브러리를 사용하여 이미지파일을 업로드 받고 서버에 저장하는 법
 
+등 리액트의 전반적인 플로우를 배울 수 있었습니다.
